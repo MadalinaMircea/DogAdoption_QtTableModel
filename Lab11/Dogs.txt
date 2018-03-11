@@ -1,0 +1,7 @@
+Beagle,Bailey,5,http://superpesik.ru/wp-content/uploads/2013/09/bigl-xarer7.JPG
+Westie,Bolt,2,http://cdn.akc.org/westie_puppy.jpg
+Labrador,Bez,1,http://cdn1-www.dogtime.com/assets/uploads/gallery/labrador-retriever-dog-breed-pictures/labrador-retriever-dog-pictures-1.jpg
+Bichon Havanese,Cody,7,https://i.ytimg.com/vi/ItMCpfBmKgY/hqdefault.jpg
+Doberman,Tooth,8,https://s-media-cache-ak0.pinimg.com/736x/20/69/00/206900a83822e1a875f0617a33cecf07.jpg
+Pomeranian,Minnie,1,http://www.yeartohelp.com/wp-content/uploads/2012/10/boo.jpg
+Pug,Princess,2,http://i.huffpost.com/gen/3753474/images/o-PUG-facebook.jpg

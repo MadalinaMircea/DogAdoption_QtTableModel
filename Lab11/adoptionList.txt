@@ -1,0 +1,3 @@
+Bichon Frise,Boy,1,http://www.dogbreedslist.info/uploads/allimg/dog-pictures/Bichon-Frise-3.jpg
+Golden Retriever,Honey,3,http://static.animalzoo.ro/uploads/2015/08/golden2.jpg
+Pitbull,Charlie,3,http://americanbullydaily.com/wp-content/uploads/2016/01/Pitbull-Dog-Smiling.jpg
